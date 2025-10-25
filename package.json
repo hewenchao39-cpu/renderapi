@@ -1,0 +1,20 @@
+{
+  "name": "lzt-render-proxy",
+  "version": "1.0.0",
+  "description": "LZT Market API Proxy for Render",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "hewenchao39",
+  "license": "MIT"
+}
+
